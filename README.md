@@ -12,5 +12,6 @@ and accordingly use path of the shells at the start of script
 
 I have used 
 ```
-! /bin/bash
+#! /bin/bash
 ```
+
